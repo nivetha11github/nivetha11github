@@ -27,5 +27,4 @@ I specialize in transforming raw data into business insights. With a background 
 ---
 
 ### 📫 Connect With Me
-*[(Update this link!)](https://www.linkedin.com/in/nivetha-murugan/)*
-* [Email](mailto:your_email@example.com) *(Update this!)*
+*[LinkedIn](https://www.linkedin.com/in/nivetha-murugan/)*
