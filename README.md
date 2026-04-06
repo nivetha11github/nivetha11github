@@ -1,12 +1,17 @@
 ## 👋 About Me
 
-Hi! I’m **Nivetha Murugan**, a Customer Success & Data Analytics enthusiast with 5+ years of experience in client support, operations, and data-driven insights. I specialize in:
+Hi! I’m **Nivetha Murugan**, passionate about **data analytics, visualization, and turning insights into action**.  
 
-- 📊 Data visualization & analytics: Tableau, Power BI, Excel  
-- 🛠 CRM & operations tools: Salesforce, ERP systems  
-- 🤝 Client success, escalation management & process optimization  
+- 📊 **Analytics & Data Skills:** Tableau, Power BI, Excel, SQL, Data Dashboards  
+- 🔍 **Interests:** Healthcare analytics, process optimization, business intelligence, reporting automation  
 
-I love turning complex data into actionable insights and creating dashboards that help teams make smarter decisions. Check out my [featured projects](#-featured-projects) to see my work in action!
+Alongside analytics, I have **5+ years in Customer Success & Operations**, specializing in:  
+
+- 🤝 Client support, escalation handling, and cross-functional collaboration  
+- 🛠 CRM & ERP tools: Salesforce, Oracle, workflow management systems  
+- ⚡ Streamlining processes and improving operational efficiency  
+
+Check out my [featured projects](#-featured-projects) to see my work in action!
 
 ---
 
