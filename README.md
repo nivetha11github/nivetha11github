@@ -12,17 +12,13 @@ I specialize in transforming raw data into business insights. With a background 
 
 ---
 
-### 📂 Portfolio Projects
+## 🚀 Featured Projects
 
-#### 1. [Seattle Housing Market Analysis (2016)](https://github.com/nivetha11github/Seattle-Housing-Analysis-2016)
-* **Objective:** Analyzed real estate trends to identify high-ROI property types.
-* **Key Insight:** Discovered a 50% price premium for 4-bedroom homes vs 3-bedroom homes.
-* **Tools:** Tableau, Data Cleaning.
-* [View Project Dashboard & Charts](https://github.com/nivetha11github/Seattle-Housing-Analysis-2016)
+Here are some of my interactive dashboards and data analysis projects:
 
-#### 2. Superstore Sales Performance (Coming Soon)
-* **Objective:** Building an Excel dashboard to track regional profit margins.
-* **Tools:** Microsoft Excel, Pivot Tables.
+[![Canadian Industry Analysis - Power BI](https://img.shields.io/badge/PowerBI-Canadian%20Industry%20Analysis-blue?style=for-the-badge)](https://github.com/nivetha11github/Canadian-Industry-Analysis-PowerBI)
+
+[![Seattle Housing Analysis - Tableau](https://img.shields.io/badge/Tableau-Seattle%20Housing%20Analysis-blue?style=for-the-badge)](https://github.com/nivetha11github/Seattle-Housing-Analysis-2016)
 
 ---
 
