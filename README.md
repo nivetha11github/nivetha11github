@@ -26,5 +26,16 @@ I specialize in transforming raw data into business insights. With a background 
 
 ---
 
-### 📫 Connect With Me
-*[LinkedIn](https://www.linkedin.com/in/nivetha-murugan/)*
+## 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/nivetha-murugan](https://www.linkedin.com/in/nivetha-murugan)
+- **Email:** nivethasara12@gmail.com
+
+---
+
+## 📊 GitHub Stats
+![Nivetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivetha11github&show_icons=true&theme=radical)
+
+## 🛠️ Skills Badges
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
