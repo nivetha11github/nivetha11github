@@ -1,7 +1,12 @@
-# Hi there, I'm Nivetha 👋
-### 📊 Aspiring Business Analyst | Data Storyteller based in Toronto
+## 👋 About Me
 
-I specialize in transforming raw data into business insights. With a background in Computer Science and Business Analytics, I focus on building intuitive dashboards that help stakeholders make decisions.
+Hi! I’m **Nivetha Murugan**, a Customer Success & Data Analytics enthusiast with 5+ years of experience in client support, operations, and data-driven insights. I specialize in:
+
+- 📊 Data visualization & analytics: Tableau, Power BI, Excel  
+- 🛠 CRM & operations tools: Salesforce, ERP systems  
+- 🤝 Client success, escalation management & process optimization  
+
+I love turning complex data into actionable insights and creating dashboards that help teams make smarter decisions. Check out my [featured projects](#-featured-projects) to see my work in action!
 
 ---
 
